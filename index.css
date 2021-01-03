@@ -1,0 +1,42 @@
+.fullindex{
+    background-image: url("F:\Portfolio/image/wall.jpg");
+    width: 1333px;
+    height: 640px;
+    border-radius: 10px;
+    
+}
+.leftdiv{
+    float: left;
+    width: 444px;
+    height: 500px;
+    border-radius: 10px;
+
+}
+.middlediv{
+    float: left;
+    width: 445px;
+    height: 500px;
+    border-radius: 10px;
+}
+.middledivs{
+    float: left;
+    height: 213px;
+    width: 100%;
+    border : blue 10px solid;
+    
+    
+}
+.monitor{
+    float: left;
+    background-image: url("F:\Portfolio/image/monitor.jpg") ;
+    height: 214px;
+    width: 100%;
+   
+}
+.rightdiv{
+    float: left;
+    width: 444px;
+    height: 500px;
+    border-radius: 10px;
+    
+}
